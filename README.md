@@ -13,7 +13,7 @@ Simplifier la gestion des contacts d'une entreprise. ou toute utilisation person
 Stocker les contacts depuis un fichier csv dans une structure de données pour pouvoir les manipuler plus facilement et facliter la recherche et la modification des contacts. Ainsi que la sauvegarde des contacts dans un fichier csv.
 
 ## Installation
-télécharger le projet sur le dépôt GitHub.
+Télécharger le projet sur le dépôt GitHub.
 
 ### Prérequis
 Vous serez amené à installer Code::Blocks, un IDE pour le C/C++.  
