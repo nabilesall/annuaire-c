@@ -18,7 +18,7 @@ Télécharger le projet sur le dépôt GitHub.
 ### Prérequis
 Vous serez amené à installer Code::Blocks, un IDE pour le C/C++.  
 Vous récupérerez le projet sur le dépôt GitHub.  
-Vous pouvez aussi mettre votre propre fichier csv tout en respectant le format qui se trouve dans le fichier [annuaire5000_test.csv](https://github.com/nabilesall/annuaire-c/blob/dev-branch/annuaire5000_test.csv) . Vous aurez à modifier le fichier [fonction.c](https://github.com/nabilesall/annuaire-c/blob/main/fonction.c) , à la ligne 7, pour que le programme puisse lire votre fichier.  
+Vous pouvez aussi mettre votre propre fichier csv tout en respectant le format qui se trouve dans le fichier [annuaire5000_test.csv](https://github.com/nabilesall/annuaire-c/blob/main/annuaire5000_test.csv) . Vous aurez à modifier le fichier [fonction.c](https://github.com/nabilesall/annuaire-c/blob/main/fonction.c) , à la ligne 7, pour que le programme puisse lire votre fichier.  
 format du fichier csv :  
 ```csv
 Adelaide,Laurent,MONTPELLIER,34080,04.39.69.09.34,adelaide.laurent@server.fr,journaliste
